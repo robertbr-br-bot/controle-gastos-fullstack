@@ -1,0 +1,15 @@
+# .NET
+bin/
+obj/
+
+# Banco local
+*.db
+
+# Node
+node_modules/
+
+# Vite
+dist/
+
+# Arquivos de ambiente
+.env
