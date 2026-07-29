@@ -1,3 +1,8 @@
+![.NET](https://img.shields.io/badge/.NET-8.0-purple)
+![React](https://img.shields.io/badge/React-19-blue)
+![TypeScript](https://img.shields.io/badge/TypeScript-blue)
+![SQLite](https://img.shields.io/badge/SQLite-003B57)
+
 # Controle de Gastos
 
 Aplicação Full Stack desenvolvida com C#, .NET 8, ASP.NET Core Web API, React, TypeScript e SQLite para gerenciamento de gastos residenciais. O sistema permite cadastrar pessoas e transações financeiras, aplicando regras de negócio e persistindo os dados em banco de dados relacional.
