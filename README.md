@@ -1,4 +1,3 @@
-<img width="1037" height="707" alt="Backend Swagger" src="https://github.com/user-attachments/assets/ed53abcf-4d75-493f-98cd-df5c32d7557b" />
 # Controle de Gastos
 
 Aplicação Full Stack desenvolvida com C#, .NET 8, ASP.NET Core Web API, React, TypeScript e SQLite para gerenciamento de gastos residenciais. O sistema permite cadastrar pessoas e transações financeiras, aplicando regras de negócio e persistindo os dados em banco de dados relacional.
