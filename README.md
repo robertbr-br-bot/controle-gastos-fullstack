@@ -3,6 +3,10 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript-blue)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57)
 
+# Objetivo
+
+Este projeto foi desenvolvido como um desafio técnico com o objetivo de demonstrar conhecimentos em desenvolvimento Full Stack utilizando ASP.NET Core Web API e React, aplicando boas práticas de organização do código, integração entre frontend e backend e persistência de dados.
+
 # Controle de Gastos
 
 Aplicação Full Stack desenvolvida com C#, .NET 8, ASP.NET Core Web API, React, TypeScript e SQLite para gerenciamento de gastos residenciais. O sistema permite cadastrar pessoas e transações financeiras, aplicando regras de negócio e persistindo os dados em banco de dados relacional.
