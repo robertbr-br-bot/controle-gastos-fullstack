@@ -12,9 +12,6 @@ Aplicação Full Stack desenvolvida com C#, .NET 8, ASP.NET Core Web API, React,
 <img width="723" height="702" alt="Frontend controle de gastos" src="https://github.com/user-attachments/assets/c4bcaeec-38fb-4a2f-9020-6ccf2cb72817" />
 
 
-
-
-
 ## Durante este projeto pratiquei:
 
 Desenvolvimento de APIs REST;
@@ -94,7 +91,5 @@ O frontend estará disponível em:
 http://localhost:5173
 
 
-Desenvolvido por Robert Richard Pomponeti Ferreira<img width="1037" height="707" alt="Backend Swagger" src="https://github.com/user-attachments/assets/26e1a712-9baf-45e7-b1c1-0153f3edf850" />
-<img width="1037" height="707" alt="Backend Swagger" src="https://github.com/user-attachments/assets/a052d0f0-d1f2-499c-bca5-94c67eb9a9cc" />
-<img width="1037" height="707" alt="Backend Swagger" src="https://github.com/user-attachments/assets/a3e0d259-3376-4b7b-baed-882f97abe5d5" />
+Desenvolvido por Robert Richard Pomponeti Ferreira
 
