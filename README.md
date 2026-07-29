@@ -28,9 +28,9 @@ Aplicação de regras de negócio.
 
 controle-gastos-fullstack
 ├── backend
-│   └── ASP.NET Core Web API
+│  └── ASP.NET Core Web API
 └── frontend
-    └── React + TypeScript
+└── React + TypeScript
 
 ## Funcionalidades
 
