@@ -27,6 +27,7 @@ Aplicação de regras de negócio.
 ## Estrutura do projeto
 
 controle-gastos-fullstack
+
 ├── backend ── ASP.NET Core Web API
 
 └── frontend ── React + TypeScript
