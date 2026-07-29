@@ -99,5 +99,10 @@ O frontend estará disponível em:
 http://localhost:5173
 
 
-Desenvolvido por Robert Richard Pomponeti Ferreira
+## Autor
+
+**Robert Richard Pomponeti Ferreira**
+
+- LinkedIn: www.linkedin.com/in/robertrichard2505
+- GitHub: https://github.com/robertbr-br-bot
 
